@@ -1,2 +1,2 @@
 #!/bin/bash
-find pwd -type f -name '*~' -delete
+find /alx-system_engineering-devops/0x00-shell_basics -type f -name '*~' -delete
